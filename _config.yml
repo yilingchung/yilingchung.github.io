@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi-Ling Chung"
-  avatar           : "profile.png"
+  avatar           : yilingchung.jpg #"profile.png"
   bio              : "PhD student at University of Trento"
   location         : "Trento, IT"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yilingchung"
+  github           : "yilingchung"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yilingchung/"
+  linkedin         : "yilingchung"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
