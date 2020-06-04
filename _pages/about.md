@@ -12,7 +12,7 @@ Hi, I am Yi-Ling Chung. [CV](https://github.com/yilingchung/yilingchung.github.i
 
 I am a second-year PhD student in [Information and Communication Technologies](https://ict.unitn.it/) at the University of Trento. I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of Marco Guerini. My research focuses on knowledge-grounded counter-narrative generation in a multilingual scenario, employing external knowledge resources and transfer learning. 
 
-Publication
+Publications
 ------
 * Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** (To appear)
 * **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroglu and Marco Guerini. CONAN - COunter
