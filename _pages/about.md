@@ -14,7 +14,7 @@ I am a second-year PhD student in [Information and Communication Technologies](h
 
 Publications
 ------
-* Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** (To appear) [[Paper]](https://arxiv.org/pdf/2004.04216.pdf)
+* Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** (To appear) [[arXiv]]](https://arxiv.org/pdf/2004.04216.pdf)
 * **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroglu and Marco Guerini. CONAN - COunter
 NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate. **ACL 2019** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/P19-1271.pdf)
 * Rodrigo Agerri, **Yiling Chung**, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau (2018). Building
