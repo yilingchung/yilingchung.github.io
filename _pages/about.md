@@ -14,12 +14,16 @@ I am a second-year PhD student in [Information and Communication Technologies](h
 
 Publications
 ------
-* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Marco Guerini. Italian Counter Narrative Generation to Fight Online Hate Speech. (To appear) In the Seventh Italian Conference on Computational Linguistics **Clic 2020**.
-* Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** [[arXiv]](https://arxiv.org/pdf/2004.04216.pdf)
+* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Marco Guerini. Italian Counter Narrative Generation to Fight Online Hate Speech. In the Seventh Italian Conference on Computational Linguistics **Clic 2020**. [[paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf)
+* Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** [[paper]](https://www.aclweb.org/anthology/2020.acl-main.110.pdf)
 * **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroglu and Marco Guerini. CONAN - COunter
 NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate. **ACL 2019** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/P19-1271.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN)
 * Rodrigo Agerri, **Yiling Chung**, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau. Building
 Named Entity Recognition Taggers via Parallel Corpora. **LREC 2018** [[Paper]](https://www.aclweb.org/anthology/L18-1557.pdf)
+
+News
+------
+* Internship at University of the Basque Country starting January 2021
 
 Education
 ------
