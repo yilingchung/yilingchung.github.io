@@ -14,7 +14,7 @@ I am a second-year PhD student in [Information and Communication Technologies](h
 
 Publications
 ------
-* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Marco Guerini. Italian Counter Narrative Generation to Fight Online Hate Speech. In the Seventh Italian Conference on Computational Linguistics **Clic 2020**. [[Paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf)
+* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Marco Guerini. Italian Counter Narrative Generation to Fight Online Hate Speech. In the Seventh Italian Conference on Computational Linguistics **Clic-it 2020**. [[Paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf)
 * Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.110.pdf)
 * **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroglu and Marco Guerini. CONAN - COunter
 NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate. **ACL 2019** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/P19-1271.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN)
