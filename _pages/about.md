@@ -23,7 +23,7 @@ Named Entity Recognition Taggers via Parallel Corpora. **LREC 2018** [[Paper]](h
 
 News
 ------
-* Internship at University of the Basque Country starting January 2021
+* **January-April 2021:** Interned at [HiTZ Center](http://www.hitz.eus/) - [Ixa Group](http://ixa.si.ehu.es/) with [Rodrigo Agerri](https://ragerri.github.io/)
 
 Education
 ------
@@ -40,6 +40,7 @@ Work Experience
 
 Awards/Services
 ------
+* Served as a reviewer for LREC, Clic-it, ACL
 * ACL 2019 Student Volunteer
 * AthNLP Summer School Scholarship 2019
 * Taiwanese European Scholarship for European Masters in Language and Communication Technologies
