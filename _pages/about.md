@@ -24,6 +24,7 @@ Named Entity Recognition Taggers via Parallel Corpora. **LREC 2018** [[Paper]](h
 News
 ------
 * **January-April 2021:** Interned at [HiTZ Center](http://www.hitz.eus/) - [Ixa Group](http://ixa.si.ehu.es/) with [Rodrigo Agerri](https://ragerri.github.io/)
+* **June 2021:** Our work on hate monitoring/countering platform has been accepted in the journal Online Social Networks and Media!
 
 Education
 ------
