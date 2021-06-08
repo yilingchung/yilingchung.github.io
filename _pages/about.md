@@ -14,14 +14,14 @@ I am a third-year PhD student in [Information and Communication Technologies](ht
 
 Publications
 ------
-* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Marco Guerini. Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech. **ACL Findings 2021** (Long Papers)
-* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Sara Tonelli, Marco Guerini. Empowering NGOs in Countering Online Hate Messages. To appear in **Online Social Networks and Media (OSNM) 2021**
-* **Yi-Ling Chung**, Serra Sinem Tekiroglu, Marco Guerini. Italian Counter Narrative Generation to Fight Online Hate Speech. In the Seventh Italian Conference on Computational Linguistics **Clic-it 2020** [[Paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf) [[video]](https://player.vimeo.com/video/515276877)
-* Serra Sinem Tekiroglu, **Yi-Ling Chung**, Marco Guerini. Generating Counter Narratives against Online Hate Speech: Data and Strategies. **ACL 2020** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.110.pdf)
-* **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroglu and Marco Guerini. CONAN - COunter
-NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate. **ACL 2019** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/P19-1271.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN)
-* Rodrigo Agerri, **Yiling Chung**, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau. Building
-Named Entity Recognition Taggers via Parallel Corpora. **LREC 2018** [[Paper]](https://www.aclweb.org/anthology/L18-1557.pdf)
+* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Papers)
+* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. <em>Empowering NGOs in Countering Online Hate Messages.</em> To appear in **Online Social Networks and Media (OSNM) 2021**
+* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Italian Counter Narrative Generation to Fight Online Hate Speech.</em> In the Seventh Italian Conference on Computational Linguistics **Clic-it 2020** [[Paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf) [[video]](https://player.vimeo.com/video/515276877)
+* Serra Sinem Tekiroğlu, **Yi-Ling Chung**, and Marco Guerini. <em>Generating Counter Narratives against Online Hate Speech: Data and Strategies.</em> **ACL 2020** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.110.pdf)
+* **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu and Marco Guerini. <em>CONAN - COunter
+NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate.</em> **ACL 2019** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/P19-1271.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN)
+* Rodrigo Agerri, **Yiling Chung**, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau. <em>Building
+Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Paper]](https://www.aclweb.org/anthology/L18-1557.pdf)
 
 News
 ------
