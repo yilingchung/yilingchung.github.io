@@ -14,8 +14,8 @@ I am a third-year PhD student in [Information and Communication Technologies](ht
 
 Publications
 ------
-* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Papers) ```Also accepted at NLP for Positive Impact workshop 2021```
-* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. <em>Empowering NGOs in Countering Online Hate Messages.</em> To appear in **Online Social Networks and Media (OSNM) 2021**
+* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Papers) ```Also accepted at NLP for Positive Impact workshop 2021``` [[Paper]](https://arxiv.org/abs/2106.11783) 
+* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. <em>Empowering NGOs in Countering Online Hate Messages.</em> **Online Social Networks and Media (OSNM) 2021, 24, 100150** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S246869642100032X)
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Italian Counter Narrative Generation to Fight Online Hate Speech.</em> In the Seventh Italian Conference on Computational Linguistics **Clic-it 2020** [[Paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf) [[video]](https://player.vimeo.com/video/515276877)
 * Serra Sinem Tekiroğlu, **Yi-Ling Chung**, and Marco Guerini. <em>Generating Counter Narratives against Online Hate Speech: Data and Strategies.</em> **ACL 2020** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.110.pdf)
 * **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu and Marco Guerini. <em>CONAN - COunter
