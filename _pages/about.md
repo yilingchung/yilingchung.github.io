@@ -25,7 +25,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
-* **September 2021:** One paper on counter narrative classification has been accepted at ArgMining 2021!
+* **September 2021:** One work on counter narrative classification has been accepted at ArgMining 2021!
 * **June 2021:** Our paper on knowledge-bound counter narrative generation has been accepted at ACL Findings and NLP4PI!
 * **May 2021:** Our work on hate monitoring/countering platform has been accepted at the journal Online Social Networks and Media!
 * **January-April 2021:** Interned at [HiTZ Center](http://www.hitz.eus/) - [Ixa Group](http://ixa.si.ehu.es/) with [Rodrigo Agerri](https://ragerri.github.io/)
