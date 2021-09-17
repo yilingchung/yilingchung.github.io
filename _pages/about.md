@@ -15,7 +15,7 @@ I am a final year PhD student in [Information and Communication Technologies](ht
 Publications
 ------
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Papers) ```Also accepted at NLP for Positive Impact workshop 2021``` [[Paper]](https://aclanthology.org/2021.findings-acl.79) [[Slides]](https://d3smihljt9218e.cloudfront.net/lecture/26170/slideshow/c9ca2869c15dbb11fedf98f4feb3fbeb.pdf)
-* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. <em>Empowering NGOs in Countering Online Hate Messages.</em> **Online Social Networks and Media (OSNM), 24 (2021): 100150** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S246869642100032X)
+* **Yi-Ling Chung**, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. <em>Empowering NGOs in Countering Online Hate Messages.</em> **Online Social Networks and Media (OSNM), 24 (2021): 100150** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S246869642100032X)[[arXiv]](https://arxiv.org/pdf/2107.02472.pdf)
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Italian Counter Narrative Generation to Fight Online Hate Speech.</em> In the Seventh Italian Conference on Computational Linguistics **Clic-it 2020** [[Paper]](http://ceur-ws.org/Vol-2769/paper_35.pdf) [[video]](https://player.vimeo.com/video/515276877)
 * Serra Sinem Tekiroğlu, **Yi-Ling Chung**, and Marco Guerini. <em>Generating Counter Narratives against Online Hate Speech: Data and Strategies.</em> **ACL 2020** (Long Papers) [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.110.pdf)
 * **Yi-Ling Chung**, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu and Marco Guerini. <em>CONAN - COunter
@@ -25,6 +25,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
+* **September 2021:** One paper on counter narrative classification has been accepted at ArgMining 2021!
 * **June 2021:** Our paper on knowledge-bound counter narrative generation has been accepted at ACL Findings and NLP4PI!
 * **May 2021:** Our work on hate monitoring/countering platform has been accepted at the journal Online Social Networks and Media!
 * **January-April 2021:** Interned at [HiTZ Center](http://www.hitz.eus/) - [Ixa Group](http://ixa.si.ehu.es/) with [Rodrigo Agerri](https://ragerri.github.io/)
