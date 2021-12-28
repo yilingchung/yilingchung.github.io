@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am Yi-Ling Chung. [CV](https://github.com/yilingchung/yilingchung.github.io/blob/master/files/CV_YiLing%20Chung.pdf)
 
-I am a final year PhD student in [Information and Communication Technologies](https://ict.unitn.it/) at the University of Trento. I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). My research focuses on hate speech mitigation via knowledge-grounded counter-narrative generation in a multilingual scenario, employing external knowledge resources and transfer learning. 
+I am a final year PhD student in [Information and Communication Technologies](https://ict.unitn.it/) at the University of Trento. I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). My research focuses on hate speech mitigation via data curation and knowledge-grounded counter-narrative generation in a multilingual scenario, employing external knowledge resources and transfer learning. Starting from January 2022, I will be working at [The Alan Turing Institute](https://www.turing.ac.uk/) as research associate, on the topic of online safety!
 
 Publications
 ------
