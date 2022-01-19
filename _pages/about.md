@@ -34,9 +34,9 @@ News
 Education
 ------
 * PhD, Computer Science, University of Trento/Fondazione Bruno Kessler **(2018-now)**
-* MSc in European Masters in Language and Communication Technologies (2015-2017) 
-* MSc in Cognitive Science, National Cheng Kung University, Taiwan (2011-2013) 
-* BSc in Psychology, Kaohsiung Medical University, Taiwan (2007 - 2011)
+* MSc in European Masters in Language and Communication Technologies 
+* MSc in Cognitive Science, National Cheng Kung University, Taiwan 
+* BSc in Psychology, Kaohsiung Medical University, Taiwan
 
 Work Experience
 ------
