@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yi-Ling Chung"
   avatar           : yilingchung.jpg #"profile.png"
-  bio              : "PhD student at University of Trento - Fondazione Bruno Kessler"
+  bio              : "PhD student at University of Trento - FBK; Researcher at The Alan Turing Institute"
   location         : "London, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?user=e4HwqV0AAAAJ&hl=en"
-  email            : "ychung@fbk.eu"
+  email            : "ychung@turing.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
