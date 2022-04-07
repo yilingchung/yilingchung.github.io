@@ -10,7 +10,7 @@ redirect_from:
 
 Hi👋, I am Yi-Ling.
 
-I am a final year PhD student in [Information and Communication Technologies](https://ict.unitn.it/) at the University of Trento. I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). My research focuses on hate speech mitigation via data curation and knowledge-grounded counter-narrative generation in a multilingual scenario, employing external knowledge resources and transfer learning. Starting from January 2022, I will be working at [The Alan Turing Institute](https://www.turing.ac.uk/) as a research associate, on the topic of online safety!
+I am a final year PhD student in [Information and Communication Technologies](https://ict.unitn.it/) at the University of Trento. I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). My research focuses on hate speech mitigation via data curation and knowledge-grounded counter narrative generation in a multilingual scenario, employing external knowledge resources and transfer learning. I join [The Alan Turing Institute](https://www.turing.ac.uk/) as a research associate working on online safety and counter speech!
 
 Publications
 ------
@@ -33,16 +33,16 @@ News
 
 Education
 ------
-* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler **(2018-now)**
+* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler **(2018-present)**
 * MSc in European Masters in Language and Communication Technologies 
 * MSc in Cognitive Science, National Cheng Kung University, Taiwan 
 * BSc in Psychology, Kaohsiung Medical University, Taiwan
 
 Work Experience
 ------
-* Linguist project manager on Text to Speech (TTS) for Mandarin, Appen (August - October 2018)
-* NLP internship, Vicomtech, Basque country (January - August 2017)
-* Researcher at Department of Psychological and Educational Testing, National Taiwan Normal University, Taiwan (March - July 2015)
+* Research Associate, The Alan Turing Institute **(January 2022-present)**
+* NLP internship, Vicomtech, Basque country (January-August 2017)
+* Researcher at Department of Psychological and Educational Testing, National Taiwan Normal University, Taiwan (March-July 2015)
 
 Awards/Services
 ------
