@@ -26,6 +26,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
+* **April 2022:** I successfully defended my PhD thesis🥳🎉✨🌈
 * **September 2021:** Our work on counter narrative classification has been accepted at ArgMining 2021!
 * **June 2021:** Our paper on knowledge-bound counter narrative generation has been accepted at ACL Findings and NLP4PI!
 * **May 2021:** Our work on hate monitoring/countering platform has been accepted at the journal Online Social Networks and Media!
