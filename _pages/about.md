@@ -27,6 +27,8 @@ NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight O
 * Rodrigo Agerri, **Yiling Chung**, Itziar Aldabe, Nora Aranberri, Gorka Labaka and German Rigau. <em>Building
 Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Paper]](https://www.aclweb.org/anthology/L18-1557.pdf)
 
+* **PhD Thesis** [Counter Narrative Generation for Fighting Online Hate Speech](https://iris.unitn.it/retrieve/handle/11572/338563/544707/PhD_Thesis_YiLingChung.pdf). University of Trento, Italy. 2022.
+
 News
 ------
 * **April 2022:** I successfully defended my PhD thesis 🥳🎉✨🌈
