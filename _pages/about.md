@@ -10,7 +10,10 @@ redirect_from:
 
 Hi👋, I am Yi-Ling.
 
-I am a final year PhD student in [Information and Communication Technologies](https://ict.unitn.it/) at the University of Trento. I am also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). My research focuses on hate speech mitigation via data curation and knowledge-grounded counter narrative generation in a multilingual scenario, employing external knowledge resources and transfer learning. In January 2022, I join [The Alan Turing Institute](https://www.turing.ac.uk/) as a research associate working on online safety and counter speech!
+I am a research associate at [The Alan Turing Institute](https://www.turing.ac.uk/), working on online safety and potential interventions. Recently I defended my PhD from the [Department of Information Engineering and Computer Science](https://iecs.unitn.it/), the University of Trento. During my PhD study, I was also affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK) under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). 
+
+My main research focuses on addressing online hate through counter speech generation, with an emphasis on multilinguality and knowledge injection to increase the informativeness in the generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to help tackle online harm. I am also interested in research areas such as multilinguality, cross-linguality, low resource natural language processing, psychology, and AI for social good.
+
 
 Publications
 ------
@@ -34,7 +37,7 @@ News
 
 Education
 ------
-* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler **(2018-present)**
+* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler **(2018-2022)**
 * MSc in European Masters in Language and Communication Technologies 
 * MSc in Cognitive Science, National Cheng Kung University, Taiwan 
 * BSc in Psychology, Kaohsiung Medical University, Taiwan
