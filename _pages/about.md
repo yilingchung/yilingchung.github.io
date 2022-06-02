@@ -12,7 +12,7 @@ Hi👋, I am Yi-Ling.
 
 I am a research associate at [The Alan Turing Institute](https://www.turing.ac.uk/), working on online safety and potential interventions. Recently I defended my PhD from the [Department of Information Engineering and Computer Science](https://iecs.unitn.it/), the University of Trento. During my PhD study, I was affiliated with the [NLP Research Unit](https://ict.fbk.eu/units/nlp/) at Fondazione Bruno Kessler (FBK), under the supervision of [Marco Guerini](http://www.marcoguerini.eu/). 
 
-My main research focuses on addressing online hate through counter speech generation, with an emphasis on multilinguality and knowledge injection to increase the informativeness in the generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to help tackle online harm. I am also interested in research areas such as multilinguality, cross-linguality, low resource natural language processing, psychology, and AI for social good.
+My main research focuses on addressing online hate through counter speech generation, with an emphasis on multilinguality and knowledge injection to increase the informativeness in the generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to tackle online harm. I am also interested in research areas such as multilinguality, low resource natural language processing, semantics, psychology, and AI for social good.
 
 
 Publications
@@ -29,7 +29,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
-* **April 2022:** I successfully defended my PhD thesis🥳🎉✨🌈
+* **April 2022:** I successfully defended my PhD thesis 🥳🎉✨🌈
 * **September 2021:** Our work on counter narrative classification has been accepted at ArgMining 2021!
 * **June 2021:** Our paper on knowledge-bound counter narrative generation has been accepted at ACL Findings and NLP4PI!
 * **May 2021:** Our work on hate monitoring/countering platform has been accepted at the journal Online Social Networks and Media!
@@ -37,7 +37,7 @@ News
 
 Education
 ------
-* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler **(2018-2022)**
+* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler 2018-2022
 * MSc in European Masters in Language and Communication Technologies 
 * MSc in Cognitive Science, National Cheng Kung University, Taiwan 
 * BSc in Psychology, Kaohsiung Medical University, Taiwan
@@ -50,7 +50,7 @@ Work Experience
 
 Awards/Services
 ------
-* Served as a reviewer for LREC, Clic-it, ACL, NeurIPS
+* Served as a reviewer for LREC, ACL, NeurIPS, Clic-it, WOAH
 * ACL 2019 Student Volunteer
 * AthNLP Summer School Scholarship 2019
 * Taiwanese European Scholarship for European Masters in Language and Communication Technologies
