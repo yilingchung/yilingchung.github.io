@@ -57,5 +57,3 @@ Awards/Services
 * AthNLP Summer School Scholarship 2019
 * Taiwanese European Scholarship for European Masters in Language and Communication Technologies
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=U1IsNe7OCQRNxg4oztJIcxqfdDtP_9-MVqkXMVbNvdY&cl=ffffff&w=300"></script>
