@@ -31,6 +31,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
+* **November 2022:** I gave a talk at Heriot-Watt University about automatic hate countering using counter speech
 * **April 2022:** I successfully defended my PhD thesis 🥳🎉✨🌈
 * **September 2021:** Our work on counter narrative classification has been accepted at ArgMining 2021!
 * **June 2021:** Our paper on knowledge-bound counter narrative generation has been accepted at ACL Findings and NLP4PI!
