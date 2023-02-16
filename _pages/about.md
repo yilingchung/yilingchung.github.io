@@ -31,6 +31,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
+* **January 2023:** I am co-organising The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023 in Toronto, Canada!
 * **November 2022:** I gave a talk at Heriot-Watt University about automatic hate countering using counter speech
 * **April 2022:** I successfully defended my PhD thesis 🥳🎉✨🌈
 * **September 2021:** Our work on counter narrative classification has been accepted at ArgMining 2021!
