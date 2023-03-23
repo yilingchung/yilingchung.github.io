@@ -12,7 +12,7 @@ Hi👋, I am Yi-Ling.
 
 I am a research associate at [The Alan Turing Institute](https://www.turing.ac.uk/), working on online safety and potential interventions. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
-My main research focuses on addressing online hate through counter-speech/counter-argument generation, with an emphasis on multilinguality and knowledge injection to increase the informativeness in the generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to tackle online harm. I am also interested in research areas such as multilinguality, low resource natural language processing, argument mining and generation, psychology, and AI for social good.
+My main research focuses on addressing online hate through abuse detection and counter-speech/counter-argument generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to tackle online harm. I am also interested in research areas such as multilinguality, low resource natural language processing, argument mining and generation, psychology, and AI for social good.
 
 
 Publications
@@ -31,6 +31,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
+* **March 2023:** I was a panelist in a panel disscussion on the realities of online harm in the UK and countermeassures to it using AI at [AI UK 2023](https://ai-uk.turing.ac.uk/programme/)
 * **January 2023:** I am co-organising The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023 in Toronto, Canada!
 * **November 2022:** I gave a talk at Heriot-Watt University about automatic hate countering using counter speech
 * **April 2022:** I successfully defended my PhD thesis 🥳🎉✨🌈
@@ -41,7 +42,7 @@ News
 
 Education
 ------
-* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler 2018-2022
+* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler
 * MSc in European Masters in Language and Communication Technologies 
 * MSc in Cognitive Science, National Cheng Kung University, Taiwan 
 * BSc in Psychology, Kaohsiung Medical University, Taiwan
