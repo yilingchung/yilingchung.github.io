@@ -55,7 +55,7 @@ Work Experience
 
 Awards/Services
 ------
-* Served as a reviewer for LREC, ACL, NeurIPS, WOAH, COLING, Clic-it
+* Served as a reviewer for LREC, ACL, NeurIPS, EMNLP, WOAH, COLING, Clic-it
 * ACL 2019 Student Volunteer
 * AthNLP Summer School Scholarship 2019
 * Taiwanese European Scholarship for European Masters in Language and Communication Technologies
