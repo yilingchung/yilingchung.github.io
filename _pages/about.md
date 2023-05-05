@@ -31,6 +31,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
+* **January 2023:** I am co-organising [The 1st Workshop on Counter Speech for Online Abuse](https://sites.google.com/view/cs4oa) at SigdialxINLG 2023 in Prague!
 * **March 2023:** I was a panelist in a panel disscussion on the realities of online harm in the UK and countermeassures to it using AI at [AI UK 2023](https://ai-uk.turing.ac.uk/programme/)
 * **January 2023:** I am co-organising The 7th Workshop on Online Abuse and Harms (WOAH) at ACL 2023 in Toronto, Canada!
 * **November 2022:** I gave a talk at Heriot-Watt University about automatic hate countering using counter speech
