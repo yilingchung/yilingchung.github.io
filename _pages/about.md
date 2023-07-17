@@ -17,6 +17,7 @@ My main research focuses on addressing online hate through abuse detection and c
 
 Publications
 ------
+* **Yi-Ling Chung**, Gavin Abercrombie, Florence Enock, Jonathan Bright, Verena Rieser. <em>Understanding Counterspeech for Online Harm Mitigation.</em> [[arXiv]](https://arxiv.org/pdf/2307.04761.pdf)
 * **Yi-Ling Chung**, Marco Guerini, and Rodrigo Agerri. <em>Multilingual Counter Narrative Type Classification.</em> **Workshop on Argument Mining 2021** [[Paper]](https://aclanthology.org/2021.argmining-1.12.pdf)
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Papers) ```Also accepted at NLP for Positive Impact workshop 2021``` [[Paper]](https://aclanthology.org/2021.findings-acl.79.pdf) [[Slides]](https://d3smihljt9218e.cloudfront.net/lecture/26170/slideshow/c9ca2869c15dbb11fedf98f4feb3fbeb.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN#Knowledge-grounded-hate-countering-dataset) [[Code]](https://github.com/yilingchung/Towards_KN_CN_Generation)
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. <em>Empowering NGOs in Countering Online Hate Messages.</em> **Online Social Networks and Media (OSNM), 24 (2021): 100150** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S246869642100032X)[[arXiv]](https://arxiv.org/pdf/2107.02472.pdf)
