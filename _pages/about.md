@@ -32,8 +32,8 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 News
 ------
-* **October 2023:** I will give a talk on NLP for online hate mitigation at the University of Jaén on November 8, 2023!
-* **October 2023:** I was on a panel discussing The Challenge of Disinformation in Generative AI at [Symposium on AI, Free Speech and Human Rights](https://www.vanderbilt.edu/free-expression/ai-symposium/symposium-schedule/) on 13 October 2023 in Nashville, Tennessee!
+* **October 2023:** I will give a talk on NLP for Online Hate Mitigation at the University of Jaén on November 8 2023!
+* **October 2023:** I was on a panel discussing The Challenge of Disinformation in Generative AI at [Symposium on AI, Free Speech and Human Rights](https://www.vanderbilt.edu/free-expression/ai-symposium/symposium-schedule/) on 13 October 2023 in Nashville, Tennessee.
 * **October 2023:** I gave a talk on Language Models for Online Safety at Ofcom Online Safety Research Workshop on 9 October 2023 in London.
 * **April 2023:** I am co-organising [The 1st Workshop on Counter Speech for Online Abuse](https://sites.google.com/view/cs4oa) on 11 September 2023 at SigdialxINLG 2023 in Prague!
 * **March 2023:** I was on a panel discussing the realities of online harm in the UK and countermeassures to it using AI at [AI UK 2023](https://ai-uk.turing.ac.uk/programme/)
