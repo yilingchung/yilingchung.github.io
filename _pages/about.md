@@ -12,7 +12,7 @@ Hi👋, I am Yi-Ling.
 
 I am a research associate at [The Alan Turing Institute](https://www.turing.ac.uk/), working on online safety and potential interventions. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
-My main research focuses on addressing online hate through abuse detection and counter-speech/counter-argument generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to tackle online harm. I am also interested in research areas such as multilinguality, low resource natural language processing, argument mining and generation, psychology, and AI for social good.
+My main research focuses on addressing online hate through abuse detection and counter-speech/counter-argument generation. I am interested in applying machine learning techniques and social network analysis to help understand dynamics of hate and misinformation, and develop applications to tackle online harm. I am also interested in research areas such as multilinguality, low resource natural language processing, LLM hallunication mitigation, argument mining and generation, psychology, and AI for social good.
 
 
 Selected Publications
