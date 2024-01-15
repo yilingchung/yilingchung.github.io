@@ -83,7 +83,7 @@ author:
   name             : "Yi-Ling Chung"
   avatar           : yilingchung.jpg #"profile.png"
   bio              : "Research Associate at The Alan Turing Institute."
-  location         : "London, UK"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=276kTuoAAAAJ"
