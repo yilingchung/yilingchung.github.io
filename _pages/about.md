@@ -65,3 +65,8 @@ Awards/Services
 * AthNLP Summer School Scholarship 2019
 * Taiwanese European Scholarship for European Masters in Language and Communication Technologies
 
+Fun Facts about Me
+------
+* I enjoy spending time in the kitchen trying delicious/creative meals 🍱🥟🥗
+* I also love exploring the beauty of nature 🏞️⛩️🌈🌊
+* My New Year resolution is to learn to play guitar and pick up my rusty piano skill 🧐😎🤔
