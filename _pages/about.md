@@ -10,9 +10,9 @@ redirect_from:
 
 Hi👋, I am Yi-Ling.
 
-I am a research associate at [The Alan Turing Institute](https://www.turing.ac.uk/), working on online safety and potential interventions. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
+I am a research associate at [The Alan Turing Institute](https://www.turing.ac.uk/), working on online safety and potential interventions. 
 
-My work currently addresses online harms through abuse detection, response generation and model evaluation. I am passionate about applying NLP and machine learning techniques for positive impacts, such as understanding the dynamics of hate and misinformation and developing applications to improve online safety. I am also interested in research areas such as multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology.
+My work currently addresses online harms through abuse detection, response generation and model evaluation. I am passionate about developing applications for positive impacts and societal issues in the real world (e.g. misinformation, abuse, and violence), understanding the social impact of AI systems, as well as making AI safer and more reliable. I am also interested in research areas such as multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
 News
 ------
