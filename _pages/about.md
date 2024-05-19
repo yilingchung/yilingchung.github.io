@@ -16,6 +16,7 @@ My work currently addresses online harms through abuse detection, response gener
 
 News
 ------
+* **May 2024:** Two papers accepted at NAACL 2024! I am also co-organising The 8th Workshop on Online Abuse and Harms (WOAH) on 20 June 2024 at NAACL.
 * **November 2023:** I gave a talk on NLP for Online Harm Mitigation at [the University of Jaén](https://www.ujaen.es/centros/ceatic/noticias/actividad-especifica-doctorado-tic-conferencia-de-yiling-chung-nlp-online-harm-mitigation) on November 8 2023.
 * **October 2023:** I was on a panel discussing The Challenge of Disinformation in Generative AI at [Symposium on AI, Free Speech and Human Rights](https://www.vanderbilt.edu/free-expression/ai-symposium/symposium-schedule/) on 13 October 2023 in Nashville, Tennessee.
 * **October 2023:** I gave a talk on Language Models for Online Safety at Ofcom Online Safety Research Workshop on 9 October 2023 in London.
@@ -32,6 +33,8 @@ News
 
 Selected Publications
 ------
+* Helena Bonaldi, **Yi-Ling Chung**, Gavin Abercrombie, Marco Guerini. <em>NLP for Counterspeech against Hate: A Survey and How-To Guide.</em> **NAACL Findings 2024** (Long Papers) [[arXiv]](https://arxiv.org/pdf/2403.20103)
+* **Yi-Ling Chung** and Jonathan Bright. <em>On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech.</em> **NAACL 2024** (Long Papers) [[Dataset & Code]](https://github.com/Turing-Online-Safety-Codebase/counterspeech_adversarial)
 * **Yi-Ling Chung**, Gavin Abercrombie, Florence Enock, Jonathan Bright, Verena Rieser. <em>Understanding Counterspeech for Online Harm Mitigation.</em> 2023 [[arXiv]](https://arxiv.org/pdf/2307.04761.pdf)
 * **Yi-Ling Chung**, Marco Guerini, and Rodrigo Agerri. <em>Multilingual Counter Narrative Type Classification.</em> **Workshop on Argument Mining 2021** [[Paper]](https://aclanthology.org/2021.argmining-1.12.pdf)
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Papers) ```Also accepted at NLP for Positive Impact workshop 2021``` [[Paper]](https://aclanthology.org/2021.findings-acl.79.pdf) [[Slides]](https://d3smihljt9218e.cloudfront.net/lecture/26170/slideshow/c9ca2869c15dbb11fedf98f4feb3fbeb.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN#Knowledge-grounded-hate-countering-dataset) [[Code]](https://github.com/yilingchung/Towards_KN_CN_Generation)
