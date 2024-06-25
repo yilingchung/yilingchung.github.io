@@ -10,7 +10,7 @@ redirect_from:
 
 Hi👋, I am Yi-Ling.
 
-I am a Senior Research Scientist at [Genaios](https://genaios.ai/). 
+I am a senior research scientist at [Genaios](https://genaios.ai/). 
 
 My work currently addresses online harms through abuse detection, response generation and model evaluation. I am passionate about developing applications for positive impacts and societal issues in the real world (e.g. misinformation, abuse, and violence), understanding the social impact of AI systems, as well as making AI safer and more reliable. I am also interested in research areas such as multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
@@ -59,8 +59,8 @@ Work Experience
 ------
 * Senior Research Scientist, Genaios Safe AI **(June 2024-present)**
 * Research Associate, The Alan Turing Institute (January 2022-June 2024)
-* NLP internship, Vicomtech, Basque country (January-August 2017)
-* Researcher at Department of Psychological and Educational Testing, National Taiwan Normal University, Taiwan (March-July 2015)
+* NLP Internship, Vicomtech, Basque country (January-August 2017)
+* Researcher, Department of Psychological and Educational Testing, National Taiwan Normal University, Taiwan (March-July 2015)
 
 Awards/Services
 ------
