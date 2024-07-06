@@ -12,7 +12,7 @@ Hi👋, I am Yi-Ling.
 
 I am a senior research scientist at [Genaios](https://genaios.ai/). 
 
-My work currently addresses online harms through abuse detection, response generation and model evaluation. I am passionate about developing applications for positive impacts and societal issues in the real world (e.g. misinformation, abuse, and violence), understanding the social impact of AI systems, as well as making AI safer and more reliable. I am also interested in research areas such as multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
+My work currently addresses misinformation and online harms through fact-checking, abuse detection, response generation and model evaluation. I am passionate about developing applications for positive impacts and societal issues in the real world (e.g. misinformation, abuse, and violence), understanding the social impact of AI systems, as well as making AI safer and more reliable. I am also interested in research areas such as multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
 News
 ------
@@ -33,8 +33,9 @@ News
 
 Selected Publications
 ------
-* **Yi-Ling Chung** and Jonathan Bright. <em>On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech.</em> **NAACL 2024** (Long Paper) [[Dataset & Code]](https://github.com/Turing-Online-Safety-Codebase/counterspeech_adversarial)
+* **Yi-Ling Chung** and Jonathan Bright. <em>On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech.</em> **NAACL 2024** (Long Paper) [[Paper]](https://aclanthology.org/2024.naacl-long.386.pdf) [[Dataset & Code]](https://github.com/Turing-Online-Safety-Codebase/counterspeech_adversarial)
 * Helena Bonaldi, **Yi-Ling Chung**, Gavin Abercrombie, Marco Guerini. <em>NLP for Counterspeech against Hate: A Survey and How-To Guide.</em> **NAACL Findings 2024** (Long Paper) [[arXiv]](https://arxiv.org/pdf/2403.20103)
+* Leonardo Castro-Gonzalez\*, **Yi-Ling Chung\***, Hannak Rose Kirk, John Francis, Angus R Williams, Pica Johansson, Jonathan Bright <em>Cheap Learning: Maximising Performance of Language Models for Social Data Science Using Minimal Data.</em> 2024 [[arXiv]](https://arxiv.org/abs/2401.12295.pdf)
 * **Yi-Ling Chung**, Gavin Abercrombie, Florence Enock, Jonathan Bright, Verena Rieser. <em>Understanding Counterspeech for Online Harm Mitigation.</em> 2023 [[arXiv]](https://arxiv.org/pdf/2307.04761.pdf)
 * **Yi-Ling Chung**, Marco Guerini, and Rodrigo Agerri. <em>Multilingual Counter Narrative Type Classification.</em> **Workshop on Argument Mining 2021** [[Paper]](https://aclanthology.org/2021.argmining-1.12.pdf)
 * **Yi-Ling Chung**, Serra Sinem Tekiroğlu, and Marco Guerini. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> **ACL Findings 2021** (Long Paper) ```Also accepted at NLP for Positive Impact workshop 2021``` [[Paper]](https://aclanthology.org/2021.findings-acl.79.pdf) [[Slides]](https://d3smihljt9218e.cloudfront.net/lecture/26170/slideshow/c9ca2869c15dbb11fedf98f4feb3fbeb.pdf) [[Dataset]](https://github.com/marcoguerini/CONAN#Knowledge-grounded-hate-countering-dataset) [[Code]](https://github.com/yilingchung/Towards_KN_CN_Generation)
@@ -59,12 +60,12 @@ Work Experience
 ------
 * Senior Research Scientist, Genaios Safe AI **(June 2024-present)**
 * Research Associate, The Alan Turing Institute (January 2022-June 2024)
-* NLP Internship, Vicomtech, Basque country (January-August 2017)
-* Researcher, Department of Psychological and Educational Testing, National Taiwan Normal University, Taiwan (March-July 2015)
+* NLP Internship, Vicomtech
+* Researcher, Department of Psychological and Educational Testing, National Taiwan Normal University
 
 Awards/Services
 ------
-* Served as a reviewer for LREC, ACL, NeurIPS, EMNLP, WOAH, COLING, Clic-it
+* Served as a reviewer for ARR, ACL, NeurIPS, EMNLP, WOAH, LREC, COLING, Clic-it
 * ACL 2019 Student Volunteer
 * AthNLP Summer School Scholarship 2019
 * Taiwanese European Scholarship for European Masters in Language and Communication Technologies
