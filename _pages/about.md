@@ -59,7 +59,7 @@ Education
 Work Experience
 ------
 * Senior Research Scientist, Genaios Safe AI **(June 2024-present)**
-* Research Associate, The Alan Turing Institute (January 2022-June 2024)
+* Research Associate, The Alan Turing Institute
 * NLP Internship, Vicomtech
 * Researcher, Department of Psychological and Educational Testing, National Taiwan Normal University
 
