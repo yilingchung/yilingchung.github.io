@@ -33,7 +33,7 @@ News
 
 Selected Publications
 ------
-* **Yi-Ling Chung**, Aurora Cobo and Pablo Serna. <em>Beyond Translation: LLM-Based Data Generation for Multilingual Fact-Checking.</em> [[arXiv]](https://arxiv.org/abs/2502.15419) [[Toolkit]](https://github.com/Genaios/MultiSynFact)
+* **Yi-Ling Chung**, Aurora Cobo and Pablo Serna. <em>Beyond Translation: LLM-Based Data Generation for Multilingual Fact-Checking.</em> 2025 [[arXiv]](https://arxiv.org/abs/2502.15419) [[Toolkit]](https://github.com/Genaios/MultiSynFact)
 * **Yi-Ling Chung** and Jonathan Bright. <em>On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech.</em> **NAACL 2024** (Long Paper) [[Paper]](https://aclanthology.org/2024.naacl-long.386.pdf) [[Dataset & Code]](https://github.com/Turing-Online-Safety-Codebase/counterspeech_adversarial)
 * Helena Bonaldi, **Yi-Ling Chung**, Gavin Abercrombie and Marco Guerini. <em>NLP for Counterspeech against Hate: A Survey and How-To Guide.</em> **NAACL Findings 2024** (Long Paper) [[arXiv]](https://arxiv.org/pdf/2403.20103)
 * Leonardo Castro-Gonzalez\*, **Yi-Ling Chung\***, Hannak Rose Kirk, John Francis, Angus R Williams, Pica Johansson and Jonathan Bright <em>Cheap Learning: Maximising Performance of Language Models for Social Data Science Using Minimal Data.</em> 2024 [[arXiv]](https://arxiv.org/abs/2401.12295.pdf)
