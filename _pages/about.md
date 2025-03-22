@@ -16,7 +16,7 @@ My work currently addresses misinformation and online harms through fact-checkin
 
 News
 ------
-* **March 2025:** I am co-organising a tutorial on NLP for Counterspeech against Hate and Misinformation on 27 July 2025 at ACL in Vienna, Austria!
+* **March 2025:** I am co-organising [the tutorial on NLP for Counterspeech against Hate and Misinformation](https://sites.google.com/view/nlp4csham/) on 27 July 2025 at ACL in Vienna, Austria!
 * **May 2024:** Two papers accepted at NAACL 2024! I am also co-organising The 8th Workshop on Online Abuse and Harms (WOAH) on 20 June 2024 at NAACL.
 * **November 2023:** I gave a talk on NLP for Online Harm Mitigation at [the University of Jaén](https://www.ujaen.es/centros/ceatic/noticias/actividad-especifica-doctorado-tic-conferencia-de-yiling-chung-nlp-online-harm-mitigation) on November 8 2023.
 * **October 2023:** I was on a panel discussing The Challenge of Disinformation in Generative AI at [Symposium on AI, Free Speech and Human Rights](https://www.vanderbilt.edu/free-expression/ai-symposium/symposium-schedule/) on 13 October 2023 in Nashville, Tennessee.
