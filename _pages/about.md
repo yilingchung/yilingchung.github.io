@@ -10,9 +10,9 @@ redirect_from:
 
 Hi👋, I am Yi-Ling.
 
-I am a senior research scientist at Genaios. 
+I am a Senior LLM Researcher at Multiverse Computing. 
 
-My work currently addresses misinformation and online harms through fact-checking, abuse detection, response generation and model evaluation. I am passionate about developing applications for positive impacts and societal issues in the real world (e.g. misinformation, abuse, and violence), understanding the social impact of AI systems, as well as making AI safer and more reliable. I am also interested in research areas such as multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
+My work has addressed misinformation and online harms through fact-checking, abuse detection, response generation and model evaluation. I am passionate about developing applications that positively impact and address societal issues in the real world (e.g., health, misinformation, abuse, and violence), understanding the social impact of AI systems, and making AI safer and more reliable. I am also interested in research areas such as model evaluation, multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
 News
 ------
@@ -51,19 +51,20 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
 
 * **PhD Thesis:** [Counter Narrative Generation for Fighting Online Hate Speech](https://iris.unitn.it/retrieve/handle/11572/338563/544707/PhD_Thesis_YiLingChung.pdf). University of Trento, Italy. 2022.
   
-Education
-------
-* PhD, Computer Science, University of Trento/Fondazione Bruno Kessler
-* MSc in European Masters in Language and Communication Technologies 
-* MSc in Cognitive Science, National Cheng Kung University, Taiwan 
-* BSc in Psychology, Kaohsiung Medical University, Taiwan
-
 Work Experience
 ------
-* Senior Research Scientist, Genaios Safe AI **(June 2024-present)**
+* Senior LLM Researcher, Multiverse Computing **(June 2025-present)**
+* Senior Research Scientist, Genaios Safe AI
 * Research Associate, The Alan Turing Institute
 * NLP Internship, Vicomtech
 * Researcher, Department of Psychological and Educational Testing, National Taiwan Normal University
+
+Education
+------
+* PhD in Information and Communication Technology, University of Trento/Fondazione Bruno Kessler
+* MSc in European Masters in Language and Communication Technologies 
+* MSc in Cognitive Science, National Cheng Kung University, Taiwan 
+* BSc in Psychology, Kaohsiung Medical University, Taiwan
 
 Awards/Services
 ------
