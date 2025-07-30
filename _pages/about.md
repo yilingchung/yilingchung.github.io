@@ -53,7 +53,7 @@ Named Entity Recognition Taggers via Parallel Corpora.</em> **LREC 2018** [[Pape
   
 Work Experience
 ------
-* Senior LLM Researcher, Multiverse Computing **(June 2025-present)**
+* Senior Data Scientist, Multiverse Computing **(June 2025-present)**
 * Senior Research Scientist, Genaios Safe AI
 * Research Associate, The Alan Turing Institute
 * NLP Internship, Vicomtech
