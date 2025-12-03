@@ -10,7 +10,7 @@ redirect_from:
 
 Hi👋, I am Yi-Ling.
 
-I currently work at IQVIA as AI Scientist 2 to apply AI for healthcare. 
+I currently work on applying AI for healthcare at IQVIA as an AI Scientist 2. 
 
 My work focuses on benchmarking AI models through evaluation, dataset creation and post-training models. Specifically, I worked on projects addressing misinformation, hallucination, online harms and model safety through fact-checking, toxicity detection, response generation, RAG and red-teaming. I am passionate about developing applications that positively impact and address societal issues in the real world (e.g., health, misinformation, abuse, and violence), understanding the social impact of AI systems, and making AI safer and more reliable. I am also interested in research areas such as model evaluation, multilinguality, generalisable natural language processing, LLM hallucination mitigation, argument mining and generation, and psychology. I completed my PhD in [Information Engineering and Computer Science](https://iecs.unitn.it/) at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kessler](https://www.fbk.eu/en/), where I was advised by [Marco Guerini](http://www.marcoguerini.eu/). 
 
