@@ -57,7 +57,6 @@ Work Experience
 * Senior Data Scientist, Multiverse Computing
 * Senior Research Scientist, Genaios Safe AI
 * Research Associate, The Alan Turing Institute
-* NLP Internship, Vicomtech
 
 Education
 ------
@@ -65,13 +64,6 @@ Education
 * MSc in European Masters in Language and Communication Technologies 
 * MSc in Cognitive Science, National Cheng Kung University, Taiwan 
 * BSc in Psychology, Kaohsiung Medical University, Taiwan
-
-Awards/Services
-------
-* Served as a reviewer for ARR, ACL, NeurIPS, EMNLP, WOAH, LREC, COLING, Clic-it
-* ACL 2019 Student Volunteer
-* AthNLP Summer School Scholarship 2019
-* Taiwanese European Scholarship for European Masters in Language and Communication Technologies
 
 Fun Facts
 ------
